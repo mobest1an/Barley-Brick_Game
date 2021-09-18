@@ -53,7 +53,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>client.Client</mainClass>
+                <mainClass>org.example.Game</mainClass>
               </manifest>
             </archive>
             <descriptorRefs>
